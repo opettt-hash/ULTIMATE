@@ -9,3 +9,5 @@ git clone https://github.com/opettt-hash/ULTIMATE.git
 cd ULTIMATE
 pkg install neofetch -y
 bash old_ultimate.sh
+```
+# Login Lisensi 
