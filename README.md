@@ -1,5 +1,5 @@
 # Ultimate
-Ultimate adalah kumpulan berbagai macam script hacking yang dijadikan satu launcher berbasis menu lengkap, Tools ini berisi 80 fitur berbeda, brute force akun, eksploitasi web, WiFi hacking, spam, botnet, dan lain sebagainya
+Ultimate Adalah Kumpulan Berbagai Macam Script hacking Yang Di Jadikan Satu Launcher Berbasis Menu Lengkap, Tools Ini Berisi 80 Fitur Berbeda, Brute Force, Eksploitasi Web, WiFi Hacking, Spam, Botnet, Dan Lain Sebagainya
 
 <img src="ultimate.jpg" alt="IP Result" width="100%">
 
