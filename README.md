@@ -13,3 +13,7 @@ bash old_ultimate.sh
 # Login Lisensi 
 ```
 4U612-DN31H-MJEJ0-0V0Z4-978HD
+```
+# Peringatan
+Program Script Ini Adalah Rangkuman Yang Saya Buat yang berisi kumpulan script dari berbagai repository GitHub Terbaik, Mohon Jangan Salah Paham, Gunakan Dengan Baik Dan Benar!
+
