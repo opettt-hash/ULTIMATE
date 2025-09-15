@@ -7,6 +7,8 @@ Ultimate Adalah Kumpulan Berbagai Macam Script hacking Yang Di Jadikan Satu Laun
 ```
 git clone https://github.com/opettt-hash/ULTIMATE.git
 cd ULTIMATE
+pkg update && pkg upgrade -y
+pkg install bash -y
 pkg install neofetch -y
 bash old_ultimate.sh
 ```
